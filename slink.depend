@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1446105591 source:c:\users\administrator\music\slink\main.cpp
+	<iostream>
+	<fstream>
+	"slinkedlist.h"
+
+1446106274 source:c:\users\administrator\music\slink\slinkedlist.cpp
+	"slinkedlist.h"
+	<iostream>
+
+1446104027 c:\users\administrator\music\slink\slinkedlist.h
+	"slinkedlist.cpp"
+
+1446106274 c:\users\administrator\music\slink\slinkedlist.cpp
+	"slinkedlist.h"
+	<iostream>
+
+1446106276 source:g:\music\slink\slinkedlist.cpp
+	"slinkedlist.h"
+	<iostream>
+
+1446104028 g:\music\slink\slinkedlist.h
+	"slinkedlist.cpp"
+
+1446106276 g:\music\slink\slinkedlist.cpp
+	"slinkedlist.h"
+	<iostream>
+
+1449860401 source:g:\slink\slinkedlist.cpp
+	"slinkedlist.h"
+	<iostream>
+
+1449860401 g:\slink\slinkedlist.h
+
+1449859968 source:g:\slink\main.cpp
+	<iostream>
+	"slinkedlist.h"
+	"slinkedlist.cpp"
+
+1449860716 g:\slink\slinkedlist.cpp
+	"slinkedlist.h"
+	<iostream>
+
